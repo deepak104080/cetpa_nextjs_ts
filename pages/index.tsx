@@ -69,3 +69,11 @@ export default function Home() {
     </div>
   )
 }
+
+
+
+
+// JS + types = TS(TypeScript)
+
+// JS Engine - Transpilers
+// Flow
